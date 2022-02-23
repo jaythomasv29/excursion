@@ -3,4 +3,4 @@
 [website live at](https://jaythomasv29.github.io/excursion/)
 
 ### Website Mockup
-![mockup]('./resources/excursion_redline.png)
+![mockup]('./resources/excursion_redline.png')
